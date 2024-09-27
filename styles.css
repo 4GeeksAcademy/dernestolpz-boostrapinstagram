@@ -1,0 +1,15 @@
+.nav-link{
+    color: grey;
+}
+.fa-camera{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-right: 2px; 
+    border: 1.5px solid lightgray;
+    padding: 6px;
+}
+.fa-location-dot{
+    font-size: 20px;
+    border:1.5px solid lightgray;
+    padding: 6px;
+}
